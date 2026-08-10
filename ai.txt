@@ -83,3 +83,8 @@ DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercom.com
 DOMAIN-SUFFIX,intercomcdn.com
+
+# > Dola
+DOMAIN-SUFFIX,dola.com
+DOMAIN-SUFFIX,spring.sg
+DOMAIN-SUFFIX,ciciai.com
