@@ -1,11 +1,18 @@
-# NAME: Dola
-# AUTHOR: ovvk
-# REPO: https://github.com/ovvk/xiaohuojian
-# UPDATED: 2026-04-04 10:00:00
-# DOMAIN-SUFFIX: 3
-# TOTAL: 4
+# > Dola
 DOMAIN-SUFFIX,dola.com
 DOMAIN-SUFFIX,cici.com
 DOMAIN-SUFFIX,ciciai.com
 DOMAIN-SUFFIX,byteoversea.com
 
+# > DeepSeek (New Added)
+DOMAIN-KEYWORD,deepseek
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,fengkongcloud.cn
+DOMAIN-SUFFIX,fengkongcloud.com
+DOMAIN-SUFFIX,portal101.cn
+DOMAIN-SUFFIX,portal101.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercom.com
+DOMAIN-SUFFIX,intercomcdn.com
