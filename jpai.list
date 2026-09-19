@@ -33,3 +33,8 @@ DOMAIN-SUFFIX,byapis.com
 DOMAIN-SUFFIX,bycbe.com
 DOMAIN-SUFFIX,bymj.io
 DOMAIN-SUFFIX,bitverse.zone
+
+# > firsty  (Singapore SIM)
+DOMAIN-SUFFIX,firsty.app
+DOMAIN-SUFFIX,firsty.com.au
+DOMAIN-SUFFIX,firsty.lt
