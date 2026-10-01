@@ -3,3 +3,32 @@ DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
 # > Muse ai
 DOMAIN-SUFFIX,muse.ai
+# > Facebook / Messenger
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fb.watch
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,m.me
+# > Instagram / Threads
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,instagr.am
+DOMAIN-SUFFIX,ig.me
+DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,threads.com
+# > WhatsApp / Meta
+DOMAIN-SUFFIX,wa.me
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,oculuscdn.com
+# > Meta 其他
+DOMAIN-SUFFIX,fb.gg
+DOMAIN-SUFFIX,fburl.com
+DOMAIN-SUFFIX,fbwat.ch
+DOMAIN-SUFFIX,tfbnw.net
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,internet.org
